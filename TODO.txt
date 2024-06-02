@@ -1,0 +1,17 @@
+Enhancements to do:
+
+Adding Timestamps: Displaying timestamps for each message.
+User Avatars: Adding avatars or profile pictures for users and the bot.
+Message Editing and Deletion: Allowing users to edit or delete their messages.
+Improving Typing Indicator: Enhancing the typing indicator to be more realistic.
+Dark/Light Mode Toggle: Adding a toggle switch for dark and light themes.
+Improving Message Input: Enhancing the message input area to support rich text or emoji.
+File Attachments: Allowing users to send file attachments.
+
+
+2. when prinitng word by word, don't allow to send                                  BUG - HP
+3. select resp text and reply                                                       FEAT - HP
+3b. select resp message and reply                                                   FEAT - HP
+4. copy, regenerate, thumbs down                                                    FEAT - MP
+5. if regenerate, a card to capture if the response was better or not               FEAT - MP
+7. share button                                                                     FEAT - LP
